@@ -2,7 +2,7 @@
 
 -Configurar clock no RCC(Periférico);
 
--Criar driver do sistic(ex:stm32 core);
+-Criar driver do sistic(ex: stm32 core);
 
 -Habilitar interrupções;
 
